@@ -22,5 +22,7 @@
     "mongodb": "^3.5.7",
     "mongoose": "^5.9.12",
     "random-number": "0.0.9"
+  },"engines": {
+    "node": "12.x"
   }
 }
